@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Credentials
+*.env
+.env
+config.env
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# SQLite DB, если не хочешь заливать
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
