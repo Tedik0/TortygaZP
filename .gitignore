@@ -21,8 +21,6 @@ config.env
 .vscode/
 
 # SQLite DB, если не хочешь заливать
-*.sqlite3
-*.db
 
 # Logs
 logs/
